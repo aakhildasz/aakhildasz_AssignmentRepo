@@ -27,9 +27,6 @@ To use these contracts, you can deploy them on a blockchain network such as Ethe
 
 Contributions are welcome! If you'd like to add new contracts or improve existing ones, please submit a pull request.
 
-## License
-
-These contracts are licensed under the MIT License. See LICENSE for details.
 
 ## Acknowledgments
 
