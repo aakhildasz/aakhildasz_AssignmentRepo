@@ -54,6 +54,3 @@ The `getPlayers` function returns the list of addresses that have entered the lo
 - The random number generation in this contract is **not secure** for real-world use cases. It's based on block variables, which can be manipulated by miners. For a secure random number generator, consider using Chainlink VRF or another secure method.
 - Only the manager can pick the winner. This centralization may not be suitable for all use cases.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
